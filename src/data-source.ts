@@ -18,7 +18,7 @@ export const AppDataSource = new DataSource({
 
     database: "dbTest",
 
-    synchronize: true,
+    synchronize: false,
 
     logging: false,
 
